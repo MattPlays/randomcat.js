@@ -3,7 +3,7 @@
 
 # Installation
 ```bash
-npm i randomcat.js
+npm i @mattplays/randomcat.js
 ```
 
 # Usage
