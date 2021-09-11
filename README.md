@@ -9,14 +9,14 @@ npm i randomcat.js
 # Usage
 ### Javascript
 ```javascript
-const randomcat = require("randomcat.js");
+const randomcat = require("@mattplays/randomcat.js");
 randomcat().then(({file}) => {
     console.log(file);
 });
 ```
 ### Typescript
 ```typescript
-import randomcat from "randomcat.js"
+import randomcat from "@mattplays/randomcat.js"
 randomcat().then(({file}) => {
     console.log(file);
 });
