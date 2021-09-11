@@ -2,7 +2,7 @@ const fetch = require("node-fetch");
 /** 
  * @returns {Promise<{file: string}>} A website string ex: https://purr.objects-us-east-1.dream.io/i/HRIEd.jpg
  * @example
- * const randomcat = require("randomcat.js");
+ * const randomcat = require("@mattplays/randomcat.js");
  * randomcat().then(({file}) => {
  * console.log(file);
  * })
