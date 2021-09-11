@@ -1,0 +1,25 @@
+{
+  "name": "randomcat.js",
+  "version": "1.0.0",
+  "description": "randomcat.js utilizes the randomcat API",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattPlays/randomcat.js.git"
+  },
+  "keywords": [
+    "randomcat",
+    "cats",
+    "API"
+  ],
+  "author": "MattPlays (https://github.com/MattPlays/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattPlays/randomcat.js/issues"
+  },
+  "homepage": "https://github.com/MattPlays/randomcat.js#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
